@@ -1,5 +1,5 @@
 <?php
-include 'app/connect.php';
+include 'connect.php';
 if(isset($_POST['submit'])){
 
 	$USN = $_POST['USN'];
