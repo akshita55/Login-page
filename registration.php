@@ -1,5 +1,5 @@
 <?php 
-include 'app/connect.php';
+include 'connect.php';
 
 if(isset($_POST['submit'])){
 
@@ -53,7 +53,7 @@ if(isset($_POST['submit'])){
 <html>
 <head>
 	<title></title>
-	<link rel="stylesheet" href="assets/registration.css">
+	<link rel="stylesheet" href="registration.css">
 	
 	<script type="text/javascript">
 		function validate(){
