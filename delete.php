@@ -23,8 +23,8 @@ if(isset($_POST['submit'])){
 <html>
 <head>
 	<title></title>
-	<link rel="stylesheet" href="assets/login.css">
-	<link rel="stylesheet" href="assets/index.css">
+	<link rel="stylesheet" href="login.css">
+	<link rel="stylesheet" href="index.css">
 </head>
 <body>
 
